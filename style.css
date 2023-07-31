@@ -1,0 +1,68 @@
+.container {
+    height: 71vh;
+    width: 25vw;
+    background-color: #8480795a;
+    margin-left: 500px;
+    margin-top: 20px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    top: 70px;
+}
+
+.textinputid {
+    height: 17vh;
+    width: 24.6vw;
+    font-size: 2.6em;
+    text-align: right;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    pointer-events: none;
+}
+
+button {
+    flex: 0 0 22%;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 70px;
+    height: 55px;
+    font-size: larger;
+    border-radius: 5px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(11, 17, 17);
+}
+
+.button1E,
+.button1C {
+    background-color: yellow;
+}
+
+.operator {
+    background-color: rgb(152, 121, 238);
+}
+
+.heading {
+    margin: 0px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 22px;
+}
+
+h3 {
+    font-family: cursive;
+}
+
+#btnr:hover {
+    width: 72px;
+    height: 60px;
+}
+
+body {
+    overflow: hidden;
+
+}
